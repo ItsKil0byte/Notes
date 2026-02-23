@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76e622a34c08ab3c",
+  "active": "0d3e8bd7121f40ac",
   "lastOpenFiles": [
+    "Untitled.md",
     "99 Meta/Attacments",
     "99 Meta/Templates",
     "99 Meta",
@@ -198,7 +199,6 @@
     "20 IT",
     "10 University",
     "00 Inbox",
-    "Заметка.md",
-    "Untitled.md"
+    "Заметка.md"
   ]
 }
