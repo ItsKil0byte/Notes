@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Inbox",
-  "attachmentFolderPath": "99 Meta/Attacments"
+  "attachmentFolderPath": "99 Meta/Attacments",
+  "alwaysUpdateLinks": true
 }
