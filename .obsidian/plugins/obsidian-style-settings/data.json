@@ -27,5 +27,7 @@
   "cupertino@@nav-action-center": false,
   "cupertino@@tab-icon": false,
   "baseline-style@@hide-baseline-info": true,
-  "baseline-style@@color-scheme-accent": false
+  "baseline-style@@color-scheme-accent": false,
+  "baseline-style@@hover-ribbon": false,
+  "baseline-style@@hover-sidedock": false
 }
