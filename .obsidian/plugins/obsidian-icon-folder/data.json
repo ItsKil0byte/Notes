@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTrash",
-      "LiLaptop",
-      "LiHouse",
-      "LiLayoutTemplate",
-      "LiImagePlay"
+      "LiAtom",
+      "LiStickyNote",
+      "LiLightbulb",
+      "LiBook",
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,14 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00 Inbox": "LiSheetsInBox",
+  "00 Inbox": "LiInbox",
   "99 Meta": "LiBox",
   "99 Meta/Attacments": "LiImagePlay",
   "99 Meta/Templates": "LiLayoutTemplate",
-  "10 Projects": "LiNotebook",
-  "20 Areas": "LiHouse",
-  "20 Areas/22 University": "LiUniversity",
-  "20 Areas/23 Personal": "LiUserCircle",
-  "20 Areas/21 IT": "LiLaptop",
-  "40 Archive": "LiTrash"
+  "01 Projects": "LiLightbulb",
+  "02 Areas": "LiAtom",
+  "03 Resources": "LiStickyNote",
+  "04 Archive": "LiArchive",
+  "99 Meta/Books": "LiBook"
 }
